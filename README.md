@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek. 
 - 👀 I’m interested in backend development and product design.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Rust.
 
 <!---
 abhisheknambiar98/abhisheknambiar98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
